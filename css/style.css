@@ -11,3 +11,13 @@ body {
   background-image: url('img/texture.png');
   -webkit-font-smoothing: antialiased;
 }
+
+/* Make container centered in page and center text inside <div> */
+.container {
+  position: absolute;
+  top:50%;
+  left:50%;
+  width:400px;  
+  margin: -220px 0 0 -200px;  
+  text-align: center;
+}
