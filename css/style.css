@@ -21,3 +21,9 @@ body {
   margin: -220px 0 0 -200px;  
   text-align: center;
 }
+
+/* Makes image a circle and sizes it to 40% of the outside container */
+.container img { 
+  max-width: 40%;
+  border-radius: 50%;
+}
