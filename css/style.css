@@ -27,3 +27,11 @@ body {
   max-width: 40%;
   border-radius: 50%;
 }
+
+/* Clears bullet points and places <li> items next to each other instead of stacked on top and changes font */
+li {
+  display: inline;
+  list-style: none;
+  padding: 0 4px;
+  font-family: 'Pacifico', monospace;
+}
