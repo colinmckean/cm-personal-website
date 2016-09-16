@@ -35,3 +35,10 @@ li {
   padding: 0 4px;
   font-family: 'Pacifico', monospace;
 }
+
+/* Remove default hyperlink styling, add our own colours and change font-size*/
+a, a:visited {
+  color:tomato;
+  font-size: 20px;
+  text-decoration: none;
+}
