@@ -47,3 +47,8 @@ a, a:visited {
 a:hover {
   color: darkred;
 }
+
+/* Style our header tags */
+h1, h2 {
+  font-weight: 700;
+}
