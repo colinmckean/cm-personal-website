@@ -74,3 +74,13 @@ p {
   border-radius: 3px;
   padding: 14px 0;
 }
+
+.available {
+  color: #fff;
+  background-color: #2ecc71;
+}
+
+.unavailable {
+  color: #999;
+  background-color: #eee;
+}
